@@ -7,8 +7,7 @@ Proporcionar um ambiente profissional para apresentação de projetos acadêmico
 
 ## 🌐 Link da Aplicação em Produção
 Acesse a plataforma publicada via GitHub Pages:
-[https://gabrielsantana12-ux.github.io/PortfolioHUB](https://gabrielsantana12-ux.github.io/PortfolioHUB)
-
+[SEU_LINK_AQUI](https://gabrielsantana12-ux.github.io/PortfolioHUB)
 ## 📂 Estrutura de Pastas e Arquivos
 ```text
 PortfolioHUB/
