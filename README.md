@@ -21,13 +21,3 @@ PortfolioHUB/
 ├── index.html                     # Página principal do PortfolioHUB
 ├── README.md                      # Documentação central do projeto
 └── SECURITY.md                    # Política de segurança e reporte responsável
-
----
-
-## 👨‍💻 Desenvolvedor
-
-| Foto / Perfil | Informações |
-| :---: | :--- |
-| **Gabriel Santana** | 🎓 Aluno de Análise e Desenvolvimento de Sistemas — **CEUB** <br> 🚀 Foco em UX/UI Design & Desenvolvimento Web <br> 🔗 [GitHub Profile](https://github.com/gabrielsantana12-ux) |
-
-
